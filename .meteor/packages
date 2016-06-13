@@ -1,0 +1,39 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+autopublish
+insecure
+http
+cfs:http-methods
+meteor-base
+mobile-experience
+mongo
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
+less
+angular
+angular:angular-animate
+angular:angular-cookies
+angular:angular-resource
+angular:angular-route
+angular:angular-sanitize
+angular:angular-touch
+planettraining:angular-translate
+planettraining:angular-translate-loader-static-files
+planettraining:angular-translate-loader-url
+planettraining:angular-translate-storage-cookie
+planettraining:angular-translate-storage-local
+planettraining:oclazyload
+angularui:angular-ui-router
+standard-minifier-css
+standard-minifier-js
